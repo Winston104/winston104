@@ -4,7 +4,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 I am a senior at the University of Missouri-Columbia, persuing an IT degree.
 ----------------------------------------------------------------------------
 
-*   🌍  Based in Kansas City, MO
+*   🌍  Based in Columbia, MO
 *   ✉️  Contact me at [levicheney3012@gmail.com](mailto:levicheney3012@gmail.com)
 *   🧠  Currently learning Express, Swift, and Python
 
